@@ -72,5 +72,5 @@ I am building strong problem-solving skills by covering concepts from **basic tr
 ## 📌 How to Use
 
 ```
-git clone https://github.com/your-username/graph-cpp.git
-cd graph-cpp
+git clone https://github.com/rajagceian/Graph-with-Cpp.git
+cd Graph-with-Cpp
