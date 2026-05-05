@@ -33,7 +33,7 @@ using namespace std;
         return ans;
     }
 int main() {
-    int V,n;
+    int V,n; // V = no. of vertrices
     cin>>V>>n;
     vector <vector<int>> edges;
     while(n--){
