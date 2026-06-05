@@ -49,13 +49,29 @@ I am building strong problem-solving skills by covering concepts from **basic tr
 
 ## 📅 Daily Progress Tracker
 
-| Day | Topic | Status |
-|-----|------|--------|
-| Day 1 | Graph Representation | ✅ |
-| Day 2 | BFS | ✅ |
-| Day 3 | DFS | ✅ |
-| Day 4 | Cycle Detection | 🔄 |
-| Day 5 | Dijkstra | ⏳ |
+| Day    | Topic                                                 | Status |
+| ------ | ----------------------------------------------------- | ------ |
+| Day 1  | Graph Representation (Adjacency List, Weighted Graph) | ✅      |
+| Day 2  | BFS                                                   | ✅      |
+| Day 3  | DFS                                                   | ✅      |
+| Day 4  | Path Existence & All Paths                            | ✅      |
+| Day 5  | Flood Fill & Number of Islands                        | ✅      |
+| Day 6  | Rotten Oranges                                        | ✅      |
+| Day 7  | Topological Sort                                      | ✅      |
+| Day 8  | Print Paths (Directed Graph)                          | ✅      |
+| Day 9  | Bellman-Ford Algorithm                                | ✅      |
+| Day 10 | Floyd-Warshall Algorithm                              | ✅      |
+| Day 11 | Cycle Detection (Undirected)                          | ✅      |
+| Day 12 | Cycle Detection (Directed)                            | ✅      |
+| Day 13 | Bipartite Graph                                       | ✅      |
+| Day 14 | Surrounded Regions                                    | ✅      |
+| Day 15 | Shortest Path in Unweighted Graph                     | ✅      |
+| Day 16 | K Stops Flight (LeetCode 787)                         | ✅      |
+| Day 17 | Word Ladder (LeetCode 127)                            | ✅     |
+| Day 18 | Dijkstra's Algorithm                                  | ✅      |
+| Day 19 | Minimum Spanning Tree (Prim's Algorithm)              | ✅      |
+| Day 20 | Advanced Graph Problems & Practice                    | ⏳      |
+
 
 > 📈 *Consistency beats intensity — pushing code daily!*
 
